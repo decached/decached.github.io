@@ -1,5 +1,5 @@
 ---
-title: "I'm Akash Kothawale"
+title: "Akash Kothawale"
 date: 2018-02-12T19:19:23-05:00
 draft: false
 ---
