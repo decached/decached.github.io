@@ -4,7 +4,7 @@ date: 2018-02-12T21:48:32-05:00
 draft: false
 ---
 
-### **Open Source Contributions**
+#### **Open Source Contributions**
 
 ##### [![github-icon][github-icon]][zulip] [Zulip - Open Source Group Chat][zulip]
 Tech: *Go, Python*  
@@ -17,7 +17,7 @@ when running mypy. Currently, I'm implementing Go bindings for Zulip API.
 Python bindings to Razorpay API (Open source and official library of the
 company)
 
-### **Personal and Academic Projects**
+#### **Personal and Academic Projects**
 ##### [![github-icon][github-icon]][konoha] [Konoha - Theme for Hugo][konoha]
 Tech: *HTML, CSS, Markdown*  
 Konoha is a minimalistic personal website theme for Hugo. 
