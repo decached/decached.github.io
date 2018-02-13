@@ -6,8 +6,8 @@ draft: false
 
 ##### I build scalable web and distributed applications in Python and Go
 ##### Here are some of my [projects]
-##### For more, checkout my academic and professional [resume] 
-##### Or even better, my [github]
+##### For my academic and professional qualifications, checkout my [resume]
+##### For more, visit my [github]
 
 [projects]: /projects/
 [resume]: https://resume.decached.com
