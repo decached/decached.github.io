@@ -1,0 +1,13 @@
+baseURL = "http://decached.com/"
+languageCode = "en-us"
+title = "de-cached"
+theme = "konoha"
+
+[params]
+    author = "Akash Kothawale"
+    image = "/img/profile.jpeg"
+    github = "decached"
+    linkedin = "decached"
+    twitter = "decached"
+    stackoverflow = "users/1500692/akash-kothawale"
+    email = "io@decached.com"
