@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>I&#39;m Akash Kothawale on de-cached</title>
+    <title>Akash Kothawale on de-cached</title>
     <link>http://decached.com/</link>
-    <description>Recent content in I&#39;m Akash Kothawale on de-cached</description>
+    <description>Recent content in Akash Kothawale on de-cached</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Feb 2018 19:19:23 -0500</lastBuildDate>
     
 	<atom:link href="http://decached.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Projects</title>
+      <link>http://decached.com/projects/</link>
+      <pubDate>Mon, 12 Feb 2018 21:48:32 -0500</pubDate>
+      
+      <guid>http://decached.com/projects/</guid>
+      <description>Open Source Contributions  Zulip - Open Source Group Chat Tech: Go, Python
+Zulip is a powerful open source team chat server. I&amp;rsquo;ve made a couple of contributions. I&amp;rsquo;ve integrated webhooks for Gogs which is a painless self-hosted Git service. I&amp;rsquo;ve also added a few Fixes to enable --strict-optional check when running mypy. Currently, I&amp;rsquo;m implementing Go bindings for Zulip API.
+ Razorpay API Python Client Python bindings to Razorpay API (Open source and official library of the company)</description>
+    </item>
     
   </channel>
 </rss>

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://decached.com/projects/</loc>
+    <lastmod>2018-02-12T21:48:32-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://decached.com/</loc>
     <lastmod>2018-02-12T19:19:23-05:00</lastmod>
   </url>
