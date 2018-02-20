@@ -17,9 +17,8 @@
       <pubDate>Mon, 12 Feb 2018 21:48:32 -0500</pubDate>
       
       <guid>http://decached.com/projects/</guid>
-      <description>Open Source Contributions  Zulip - Open Source Group Chat Tech: Go, Python
-Zulip is a powerful open source team chat server. I&amp;rsquo;ve made a couple of contributions. I&amp;rsquo;ve integrated webhooks for Gogs which is a painless self-hosted Git service. I&amp;rsquo;ve also added a few Fixes to enable --strict-optional check when running mypy. Currently, I&amp;rsquo;m implementing Go bindings for Zulip API.
- Razorpay API Python Client Python bindings to Razorpay API (Open source and official library of the company)</description>
+      <description>Personal and Academic Projects  Taylr - Personal Assistant for Interview Preparation Python, Twilio, IBM Alchemy
+Taylr was a winning hack my team built at HackBU 2017. It helps users horn their interview skills by helping them understand their mistakes and get better at interviewing. Enter some quick questions about the type of interview you&amp;rsquo;d like to test out, your name and phone number and get a call from Taylr, our interviewer.</description>
     </item>
     
   </channel>
