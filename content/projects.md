@@ -4,19 +4,8 @@ date: 2018-02-12T21:48:32-05:00
 draft: false
 ---
 
-#### **Open Source Contributions**
-
-##### [![github-icon][github-icon]][zulip] [Zulip - Open Source Group Chat][zulip]
-*Go, Python*  
-Zulip is a powerful open source team chat server. I've made a couple of
-contributions. I've integrated webhooks for Gogs which is a painless self-hosted
-Git service. I've also added a few Fixes to enable `--strict-optional` check
-when running mypy. Currently, I'm implementing Go bindings for Zulip API.
-
-##### [![github-icon][github-icon]][razorpay] [Razorpay Python SDK][razorpay]
-Python bindings to Razorpay API (Official library of the company)
-
 #### **Personal and Academic Projects**
+
 ##### [![github-icon][github-icon]][taylr] [Taylr - Personal Assistant for Interview Preparation][taylr]
 *Python, Twilio, IBM Alchemy*  
 *Taylr* was a winning hack my team built at HackBU 2017. It helps users horn
@@ -31,6 +20,19 @@ your speech and sentiment.
 ##### [![github-icon][github-icon]][konoha] [Konoha - Theme for Hugo][konoha]
 *HTML, CSS, Markdown*  
 Konoha is a minimalistic personal website theme for Hugo. 
+
+#### **Open Source Contributions**
+
+##### [![github-icon][github-icon]][zulip] [Zulip - Open Source Group Chat][zulip]
+*Go, Python*  
+Zulip is a powerful open source team chat server. I've made a couple of
+contributions. I've integrated webhooks for Gogs which is a painless self-hosted
+Git service. I've also added a few Fixes to enable `--strict-optional` check
+when running mypy. Currently, I'm implementing Go bindings for Zulip API.
+
+##### [![github-icon][github-icon]][razorpay] [Razorpay Python SDK][razorpay]
+Python bindings to Razorpay API (Official library of the company)
+
 
 ---
 For more, checkout my [github] 
