@@ -1,7 +1,7 @@
 #! /bin/sh
 #
 # deploy.sh
-# Copyright (C) 2018 Akash Kothawale <akothaw1@binghamton.edu>
+# Copyright (C) 2018 Akash Kothawale <decached@gmail.com>
 #
 # Distributed under terms of the MIT license.
 #
