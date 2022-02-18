@@ -1,22 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Akash Kothawale on de-cached</title>
-    <link>http://decached.com/</link>
+    <link>https://decached.github.io/</link>
     <description>Recent content in Akash Kothawale on de-cached</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Feb 2018 19:19:23 -0500</lastBuildDate>
-    
-	<atom:link href="http://decached.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 12 Feb 2018 19:19:23 -0500</lastBuildDate><atom:link href="https://decached.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
-      <link>http://decached.com/projects/</link>
+      <link>https://decached.github.io/projects/</link>
       <pubDate>Mon, 12 Feb 2018 21:48:32 -0500</pubDate>
       
-      <guid>http://decached.com/projects/</guid>
+      <guid>https://decached.github.io/projects/</guid>
       <description>Personal and Academic Projects  Taylr - Personal Assistant for Interview Preparation Python, Twilio, IBM Alchemy
 Taylr was a winning hack my team built at HackBU 2017. It helps users horn their interview skills by helping them understand their mistakes and get better at interviewing. Enter some quick questions about the type of interview you&amp;rsquo;d like to test out, your name and phone number and get a call from Taylr, our interviewer.</description>
     </item>

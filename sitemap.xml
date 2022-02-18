@@ -1,25 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>http://decached.com/projects/</loc>
+    <loc>https://decached.github.io/projects/</loc>
     <lastmod>2018-02-12T21:48:32-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://decached.com/</loc>
+  </url><url>
+    <loc>https://decached.github.io/</loc>
     <lastmod>2018-02-12T19:19:23-05:00</lastmod>
+  </url><url>
+    <loc>https://decached.github.io/categories/</loc>
+  </url><url>
+    <loc>https://decached.github.io/tags/</loc>
   </url>
-  
-  <url>
-    <loc>http://decached.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://decached.com/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
 </urlset>
